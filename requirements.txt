@@ -2,5 +2,5 @@ ultralytics
 opencv-python
 numpy
 mediapipe
-collections
+
 
